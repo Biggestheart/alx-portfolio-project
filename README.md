@@ -1,7 +1,7 @@
 # BiggestHeart Password Manager
 ![image](https://github.com/Biggestheart/alx-higher_level_programming/assets/57988686/4eef38ad-c9c3-4e86-b626-6875166bcbc2)
 
-The BiggestHeart Password Manager is a sophisticated and secure application meticulously crafted to empower users in proficiently mtheir passwords.
+The BiggestHeart Password Manager is a sophisticated and secure application meticulously crafted to empower users in proficiently manage their passwords.
 With a focus on robust security measures and user convenience, this state-of-the-art solution delivers an array of advanced features.
 It stands as a testament to our commitment to providing a seamless and trustworthy password management experience.
 
